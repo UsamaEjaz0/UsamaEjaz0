@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Ejaz</h1>
-<h3 align="center">A entrepreneur, developer and a crypto-guy from Pakistan.</h3>
+<h3 align="center">An entrepreneur, developer and a crypto-guy from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaejaz0&label=Profile%20views&color=0e75b6&style=flat" alt="usamaejaz0" /> </p>
 
