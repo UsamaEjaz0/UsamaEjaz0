@@ -36,7 +36,6 @@
 
 <h2 align="left">GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaejaz0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="usamaejaz0" /></p>
-<p>hi</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaejaz0&show_icons=true&locale=en&theme=onedark" alt="usamaejaz0" /></p>
