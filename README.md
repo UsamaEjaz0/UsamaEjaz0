@@ -27,7 +27,7 @@
 
 
 <h2 align="left">Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaejaz0" alt="usamaejaz0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaejaz0&theme=onedark" alt="usamaejaz0" /></a> </p>
 
 
 <h2 align="left">Languages and Tools</h2>
