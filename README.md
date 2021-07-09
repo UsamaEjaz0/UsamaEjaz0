@@ -5,13 +5,22 @@
 
 - 🌱 I’m currently learning **flutter**
 
+- 👨‍💻 All of my projects are available at [https://github.com/UsamaEjaz0?tab=repositories](https://github.com/UsamaEjaz0?tab=repositories)
+
 - 💬 Ask me about **react, python, java**
 
 - 📫 How to reach me **uejaz0@gmail.com**
 
+- ⚡ Fun Quote **Let those who seek death find it.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/https://www.linkedin.com/in/usamaejaz0/" height="30" width="40" /></a>
+<a href="https://twitter.com/usamaejaz00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaejaz00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usamaejaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usamaejaz0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17246855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17246855" height="30" width="40" /></a>
+<a href="https://fb.com/usamaejaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamaejaz0" height="30" width="40" /></a>
+<a href="https://instagram.com/usamaejaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usamaejaz0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/uejaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uejaz0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
