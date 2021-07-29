@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Usama Ejaz</h1>
-<h3 align="center">An entrepreneur, developer and a crypto-guy from Pakistan.</h3>
+<h3 align="center">ah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaejaz0&label=Profile%20views&color=0e75b6&style=flat" alt="usamaejaz0" /> </p>
 
 
-- 🌱 I’m currently working at **flutter**
+- 🌱 I’m currently working with **flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UsamaEjaz0?tab=repositories](https://github.com/UsamaEjaz0?tab=repositories)
 
