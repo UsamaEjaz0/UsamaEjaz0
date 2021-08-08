@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UsamaEjaz0?tab=repositories](https://github.com/UsamaEjaz0?tab=repositories)
 
-- 💬 Talk to me about **01001101 01100101 01100001 01101110 01101001 01101110 01100111 00100000 01101111 01100110 00100000 01101100 01101001 01100110 01100101**
+- 💬 Talk to me about anything 👉👈
 
 - 📫 Reach me at **uejaz0@gmail.com**
 
