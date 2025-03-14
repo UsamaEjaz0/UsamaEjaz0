@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Usama Ejaz</h1>
-<h3 align="center">hehe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaejaz0&label=Profile%20views&color=0e75b6&style=flat" alt="usamaejaz0" /> </p>
 
@@ -8,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UsamaEjaz0?tab=repositories](https://github.com/UsamaEjaz0?tab=repositories)
 
-- 💬 Talk to me about anything 👉👈
+- 💬 Have a project? Let's discuss: https://calendly.com/uejaz0
 
-- 📫 Reach me at **uejaz0@gmail.com**
-
-- ⚡ Fun Quote **Let those who seek death find it.**
+- 📫 Reach me at **usama@codedevza.com**
 
 
 <h2 align="left">Connect with me</h2>
